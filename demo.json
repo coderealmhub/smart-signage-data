@@ -1,22 +1,20 @@
 [
   {
-    url: "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
-    title: "YouTube Video Sample",
-    subTitle: "Caminandes 3: Llamigos",
-    preview: true,
+    "url": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    "title": "YouTube Video Sample",
+    "subTitle": "Caminandes 3: Llamigos",
+    "preview": true
   },
   {
-    url: "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-    title: "HLS Stream Sample",
-    subTitle: "Tears of Steel",
-    preview:
-      "https://mango.blender.org/wp-content/gallery/4k-renders/06_barley.jpg",
+    "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+    "title": "HLS Stream Sample",
+    "subTitle": "Tears of Steel",
+    "preview": "https://mango.blender.org/wp-content/gallery/4k-renders/06_barley.jpg"
   },
   {
-    title: "Dash Stream Sample",
-    subTitle: "Elephants Dream",
-    url: "https://rdmedia.bbc.co.uk/elephants_dream/1/client_manifest-all.mpd",
-    preview:
-      "https://orange.blender.org/wp-content/themes/orange/images/media/gallery/s1_proog.jpg",
-  },
+    "title": "Dash Stream Sample",
+    "subTitle": "Elephants Dream",
+    "url": "https://rdmedia.bbc.co.uk/elephants_dream/1/client_manifest-all.mpd",
+    "preview": "https://orange.blender.org/wp-content/themes/orange/images/media/gallery/s1_proog.jpg"
+  }
 ]
