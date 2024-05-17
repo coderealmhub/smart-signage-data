@@ -1,5 +1,11 @@
 [
   {
+    "url": "https://github.com/coderealmhub/smart-signage-data/raw/main/assets/demo/01.mp4",
+    "title": "",
+    "subTitle": "",
+    "preview": ""
+  },
+  {
     "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
     "title": "HLS Stream Sample",
     "subTitle": "Tears of Steel",
